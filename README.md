@@ -142,35 +142,6 @@ npm run test:watch
 # o
 yarn test:watch
 ```
-
-## 🎯 Decisiones Técnicas
-
-### 1. Zustand para Estado Global
-**Razón**: Más ligero que Redux Toolkit, API simple y excelente rendimiento. Ideal para el tamaño de esta aplicación sin sacrificar escalabilidad.
-
-### 2. Firebase como Backend
-**Razón**: 
-- Autenticación integrada y segura
-- Firestore proporciona sincronización en tiempo real nativa
-- Reduce tiempo de desarrollo al no necesitar backend custom
-- Escalable y confiable
-
-### 3. TypeScript
-**Razón**: Type safety, mejor experiencia de desarrollo, detección temprana de errores y mejor mantenibilidad del código.
-
-### 4. Arquitectura Modular
-**Razón**: Facilita el testing, mejora la mantenibilidad y permite escalar el proyecto agregando nuevos módulos sin afectar el código existente.
-
-### 5. React Navigation
-**Razón**: Estándar de facto en React Native, gran comunidad, excelente documentación y soporte para deep linking.
-
-## 🔐 Seguridad
-
-- ✅ Autenticación con Firebase Auth
-- ✅ Variables de entorno para credenciales sensibles
-- ✅ Validación de inputs en frontend
-- ✅ Manejo seguro de errores sin exponer información sensible
-
 ## 👤 Autor
 
 Mauricio Bermudes
