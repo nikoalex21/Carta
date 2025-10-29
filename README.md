@@ -4,19 +4,6 @@ Aplicación móvil de finanzas personales desarrollada con React Native y Fireba
 
 **GitHub del evaluador:** [@carlospujolima](https://github.com/carlospujolima)
 
-## 📋 Tabla de Contenidos
-
-- [Características](#características)
-- [Stack Tecnológico](#stack-tecnológico)
-- [Arquitectura](#arquitectura)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Ejecución](#ejecución)
-- [Testing](#testing)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Decisiones Técnicas](#decisiones-técnicas)
-
 ## ✨ Características
 
 ### Core Features (Implementadas)
